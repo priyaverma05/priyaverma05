@@ -5,3 +5,6 @@
 - 💬 Ask me about AI, IoT, Embedded Systems, VLSI Design
 - 📫 How to reach me: pv70149442gmail.com
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
