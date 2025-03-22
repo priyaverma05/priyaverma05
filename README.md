@@ -5,7 +5,7 @@
 - 💬 Ask me about AI, IoT, Embedded Systems, VLSI Design
 - 📫 How to reach me: pv70149442gmail.com
 
-<img src="https://your-image-link.com" width="400"/>
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 
 
