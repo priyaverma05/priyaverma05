@@ -1,7 +1,4 @@
-##                                       Hi👋, I am Pritya Verma
-
-<!--
-**priyaverma05/priyaverma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##                                       Hi👋, I am Priya Verma
 
 - 🎓 About me: I am pursuing Bachelor of technology in Electronics and communication Engineering (AI & Cybernetics).
 - 🔭 I’m currently learning Machine Learning, DSA, Embedded Systems, Automation, Robotics in 
