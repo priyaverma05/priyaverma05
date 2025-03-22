@@ -1,4 +1,4 @@
-## Hi👋, I am Priya Verma
+# Hi👋, I am Priya Verma
 
 - 🎓 About me: I am pursuing Bachelor of technology in Electronics and communication Engineering (AI & Cybernetics).
 - 🔭 I’m currently learning Machine Learning, DSA, Embedded Systems, Automation, Robotics in 
