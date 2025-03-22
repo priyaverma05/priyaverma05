@@ -6,8 +6,8 @@
 - 📫 How to reach me: pv70149442gmail.com
 
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 ### 🔗 Connect with Me  
 
