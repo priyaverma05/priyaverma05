@@ -8,7 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
 
-# 🔗 Connect with Me  
+🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/priya-v-58a28b251)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/v_priya_05?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
