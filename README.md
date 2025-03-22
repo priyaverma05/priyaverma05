@@ -15,6 +15,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=flat&logo=leetcode)](https://leetcode.com/u/Priyaverma05/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-000?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/pv701s99c/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 
 
