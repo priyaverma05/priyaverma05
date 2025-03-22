@@ -1,16 +1,20 @@
-## Hi there 👋
+##                                       Hi👋, I am Pritya Verma
 
 <!--
 **priyaverma05/priyaverma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 About me: I am pursuing Bachelor of technology in Electronics and communication Engineering (AI & Cybernetics).
+- 🔭 I’m currently learning Machine Learning, DSA, Embedded Systems, Automation, Robotics in 
+- 💬 Ask me about AI, IoT, Embedded Systems, VLSI Design
+- 📫 How to reach me: pv70149442gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🔗 **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/priya-v-58a28b251]) 
+
+<img src="https://your-image-link.com" width="400"/>
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
