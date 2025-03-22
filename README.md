@@ -6,6 +6,7 @@
 - 📫 How to reach me: pv70149442gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 🔗 **Connect with me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/priya-v-58a28b251]) 
 
