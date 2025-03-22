@@ -23,29 +23,24 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-    
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-    
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    
   </a>
 </p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
