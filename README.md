@@ -19,7 +19,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaverma05&layout=compact&theme=radical)
+
 
 
 
