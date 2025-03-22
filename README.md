@@ -42,13 +42,8 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-### 🚀 GitHub Stats & Languages Used
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyaverma05&show_icons=true&theme=dark)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaverma05&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyaverma05&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaverma05&layout=compact&theme=dark)
 
 
 
