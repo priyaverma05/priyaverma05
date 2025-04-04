@@ -9,8 +9,8 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
-## 📄 Resume
-[![PDF](https://img.icons8.com/color/48/adobe-acrobat--v1.png)](https://drive.google.com/file/d/1xTswZHJcF73kHxdQ8Uq-SFaqbkEgk4kf/view?usp=drive_link)      ###click on the icon for resume
+📄 Resume
+[![PDF](https://img.icons8.com/color/48/adobe-acrobat--v1.png)](https://drive.google.com/file/d/1xTswZHJcF73kHxdQ8Uq-SFaqbkEgk4kf/view?usp=drive_link)     
 
 
 ### 🔗 Connect with Me  
