@@ -10,6 +10,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
+## 📄 Resume
+[![Resume](https://img.icons8.com/ios-filled/50/000000/resume.png)]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1xTswZHJcF73kHxdQ8Uq-SFaqbkEgk4kf/view?usp=drive_link))
+
 ### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/priya-v-58a28b251)
